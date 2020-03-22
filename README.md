@@ -4,6 +4,8 @@ practicing the course Git and Github Masterclass.
 
 This is just as small change.
 
+Another Change from @maleb0lge
+
 # Using the Azure Text Analytics Cognitive Service
 
 This project uses Microsoft Azure's Text Analytics Cognitive Service to analyze different sets of text and extract key information that can be very important to achieve several business objectives. It is conformed of a single Python Notebook that:
