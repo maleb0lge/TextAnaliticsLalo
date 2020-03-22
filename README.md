@@ -2,7 +2,15 @@
 This is a copy of [https://github.com/LaloCo/TextAnalytics](https://github.com/LaloCo/TextAnalytics) for 
 practicing the course Git and Github Masterclass.
 
+This is just as small change.
+
 Another Change from @maleb0lge
+
+Ok this is task #2 subtask 1
+
+And this line is my random thought.
+
+---
 
 # Using the Azure Text Analytics Cognitive Service
 
